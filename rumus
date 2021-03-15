@@ -1,0 +1,3 @@
+# segitiga
+print("Ini rumus segitiga")
+l = 1/2 * a * t
