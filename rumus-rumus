@@ -1,0 +1,4 @@
+# persegi
+s = 5
+l = s * s
+print(l)
