@@ -2,3 +2,6 @@
 s = 5
 l = s * s
 print(l)
+
+# lingkaran 
+l = 3.14 * r
